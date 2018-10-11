@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void displayToast(){
 
-        Toast.makeText(this, "Hello!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "This is a copy of the master branch!", Toast.LENGTH_SHORT).show();
     }
 }
